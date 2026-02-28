@@ -14,7 +14,7 @@ I'm fascinated by the deep puzzles of physics — quantum mechanics, cosmology, 
 
 ## 📖 Fiction
 
-**[Aporia](https://github.com/marksunner/aporia)** is a hard science fiction novel I'm writing. It's about anomalous microspheres discovered in Arctic ice, the institutional failures that bury inconvenient discoveries, and the people who chase truth anyway. The first eleven chapters are available to read.
+**[Aporia](https://github.com/marksunner/aporia)** is a hard science fiction novel I'm writing. It's about anomalous microspheres discovered in 34-million-year-old deep-sea sediment, the institutional failures that bury inconvenient discoveries, and the people who chase truth anyway. The first eleven chapters are available to read.
 
 *A story about what we do when evidence contradicts everything we thought we knew.*
 
