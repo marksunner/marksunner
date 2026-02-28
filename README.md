@@ -1,6 +1,6 @@
 # Hi, I'm Mark 👋
 
-I build things I care about — whether that's exploring the edges of physics, writing hard science fiction, or making technology work better for people who think differently.
+I like to build things I care about.  I enjoy exploratory physics, writing hard science fiction, and making technology work better for people who think differently..
 
 ---
 
