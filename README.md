@@ -1,6 +1,6 @@
-# Hi, I'm Mark 👋
+# Hi, I'm Mark Sunner 👋
 
-I love to build things I'm passionate about.  I enjoy exploratory physics, writing hard science fiction, and making technology work better for people who think differently..
+I build things I care about — exploratory physics, hard science fiction, and technology that works better for people who think differently.
 
 ---
 
