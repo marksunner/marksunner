@@ -22,7 +22,7 @@ I'm fascinated by the deep puzzles of physics — quantum mechanics, cosmology, 
 >
 > But Elena isn't the only one paying attention. A colleague's theft, a keyword misread by dormant malware, and a military mistranslation set three separate forces converging on the same discovery — each seeing exactly what their framework permits them to see.
 >
-> As the Sun itself begins to change, Elena confronts a question more terrifying than any threat: what if the cage surrounding every civilisation in the cosmos was never a wall — but a question none of them learned to ask properly?
+> As something far older than the spheres themselves begins to respond, Elena must confront a question more terrifying than any threat...
 
 *Aporia is a novel about the vertigo-inducing distance between what we find and what we're capable of understanding — and the terrifying possibility that the prison we see is a door we haven't learned to open.*
 
