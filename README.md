@@ -14,7 +14,7 @@ I'm fascinated by the deep puzzles of physics — quantum mechanics, cosmology, 
 
 ## 📖 Fiction
 
-**[Aporia](https://github.com/marksunner/aporia)** is a hard science fiction novel I've been developing — slowly, stubbornly, and against the friction that comes with writing while dyslexic. I have a full treatment so the plot is fully architected, and I have detailed character profiles. I will get there eventually!
+**[Aporia](https://github.com/marksunner/aporia)** is a hard science fiction novel I've been developing — slowly, stubbornly, and against the friction that comes with writing while dyslexic. I have a full treatment so the arc/plot is fully architected, and I have detailed character profiles. I will get there eventually!
 
 **The premise:**
 
