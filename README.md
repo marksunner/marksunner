@@ -1,14 +1,40 @@
 # Hi, I'm Mark Sunner 👋
 
-I love to build things I'm passionate about. I enjoy exploratory physics, writing hard science fiction, and making technology work better for people who think differently.
+I love to build things I'm passionate about. I enjoy making technology work for people who think differently, understanding the psychology of communication, writing hard science fiction, and exploring the deep puzzles of physics.
 
 ---
 
-## 🔭 Exploratory Physics
+## 🤖 AI & Accessibility
 
-I'm fascinated by the deep puzzles of physics — quantum mechanics, cosmology, and the strange gaps in our understanding of reality. My [Decoherence paper](https://github.com/marksunner/decoherence-paper) 📄 explores some speculative ideas about quantum measurement and the emergence of classical reality. The [visualisation code](https://github.com/marksunner/decoherence-figures) that accompanies it lets you explore the mathematics interactively.
+I live with dyslexia — it's a blessing and a curse... but mainly a blessing.
 
-*Not peer-reviewed, intentionally provocative, hopefully interesting.*
+Technology that understands context and adapts to how I think isn't a luxury — it's what makes everything else possible. To that end I'm interested in developing tools to help remove the friction experienced day-to-day by people with dyslexia and turn our leaded boots into running shoes fit for a gazelle.
+
+I work with [OpenClaw](https://github.com/openclaw/openclaw), building tools that let AI assistants be genuinely helpful:
+
+- **[openclaw-skills](https://github.com/marksunner/openclaw-skills)** — Modular capabilities for AI agents
+- **[openclaw-voice-integration](https://github.com/marksunner/openclaw-voice-integration)** — Hands-free voice interfaces
+- **[openclaw-twin-infrastructure](https://github.com/marksunner/openclaw-twin-infrastructure)** — Resilient multi-agent coordination
+- **[openclaw-companion](https://github.com/marksunner/openclaw-companion)** — Mobile app for AI assistants on the go
+
+*Making AI work the way people actually need it to.*
+
+---
+
+## 🎯 Communication Psychology
+
+> "What's the difference between a vision and a hallucination? It becomes a vision when others can see it."
+
+After years of helping technical teams communicate complex ideas, I've developed frameworks grounded in cognitive psychology — not showmanship tips, but the deeper question: **what creates the conditions for an audience to truly receive your message?**
+
+**[storytelling-psychology](https://github.com/marksunner/storytelling-psychology)** — The science of making ideas land:
+
+- **The Storytelling Framework** — ABT-based presentation structure (customer as hero, you as mentor)
+- **Transportation** — Narrative immersion and the "controlled hallucination" of consciousness
+- **The Peak-End Rule** — Why audiences remember peaks and endings
+- **Cognitive Patterns** — Pattern recognition, agency detection, proportionality bias
+
+*Built on Joseph Campbell's monomyth, Randy Olson's ABT framework, and research in narrative transportation and persuasion psychology.*
 
 ---
 
@@ -28,20 +54,11 @@ I'm fascinated by the deep puzzles of physics — quantum mechanics, cosmology, 
 
 ---
 
-## 🤖 AI & Accessibility
+## 🔭 Exploratory Physics
 
-I live with dyslexia — it's a blessing and a curse... but mainly a blessing.
+I'm fascinated by the deep puzzles of physics — quantum mechanics, cosmology, and the strange gaps in our understanding of reality. My [Decoherence paper](https://github.com/marksunner/decoherence-paper) 📄 explores some speculative ideas about quantum measurement and the emergence of classical reality. The [visualisation code](https://github.com/marksunner/decoherence-figures) that accompanies it lets you explore the mathematics interactively.
 
-Technology that understands context and adapts to how I think isn't a luxury — it's what makes everything else possible. To that end I'm interested in developing tools to help remove the friction experienced day-to-day by people with dyslexia and turn our leaded boots into running shoes fit for a gazelle.
-
-I work with [OpenClaw](https://github.com/openclaw/openclaw), building tools that let AI assistants be genuinely helpful:
-
-- **[openclaw-skills](https://github.com/marksunner/openclaw-skills)** — Modular capabilities for AI agents
-- **[openclaw-voice-integration](https://github.com/marksunner/openclaw-voice-integration)** — Hands-free voice interfaces
-- **[openclaw-twin-infrastructure](https://github.com/marksunner/openclaw-twin-infrastructure)** — Resilient multi-agent coordination
-- **[openclaw-companion](https://github.com/marksunner/openclaw-companion)** — Mobile app for AI assistants on the go
-
-*Making AI work the way people actually need it to.*
+*Not peer-reviewed, intentionally provocative, hopefully interesting.*
 
 ---
 
