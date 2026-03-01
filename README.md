@@ -6,7 +6,7 @@
 
 ## 🔭 Exploratory Physics
 
-I'm fascinated by the deep puzzles of physics — quantum mechanics, cosmology, and the strange gaps in our understanding of reality. My [Decoherence paper](https://github.com/marksunner/decoherence-paper) explores some speculative ideas about quantum measurement and the emergence of classical reality. The [visualisation code](https://github.com/marksunner/decoherence-figures) that accompanies it lets you explore the mathematics interactively.
+I'm fascinated by the deep puzzles of physics — quantum mechanics, cosmology, and the strange gaps in our understanding of reality. My [Decoherence paper](https://github.com/marksunner/decoherence-paper) 📄 explores some speculative ideas about quantum measurement and the emergence of classical reality. The [visualisation code](https://github.com/marksunner/decoherence-figures) that accompanies it lets you explore the mathematics interactively.
 
 *Not peer-reviewed, intentionally provocative, hopefully interesting.*
 
