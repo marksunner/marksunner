@@ -6,7 +6,7 @@ I love to build things I'm passionate about. I enjoy making technology work for 
 
 ## 🤖 AI & Accessibility
 
-I live with dyslexia — it's a blessing and a curse... but mainly a blessing.
+I live with dyslexia — it's a blessing and a curse... but mainly a blessing ;-)
 
 Technology that understands context and adapts to how I think isn't a luxury — it's what makes everything else possible. To that end I'm interested in developing tools to help remove the friction experienced day-to-day by people with dyslexia and turn our leaded boots into running shoes fit for a gazelle.
 
