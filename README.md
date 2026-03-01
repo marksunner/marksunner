@@ -1,6 +1,6 @@
 # Hi, I'm Mark Sunner 👋
 
-I love to build things I'm passionate about. I enjoy exploratory physics, writing hard science fiction, and making technology work better for people who think differently.
+**Mark Sunner** here — I love to build things I'm passionate about. I enjoy exploratory physics, writing hard science fiction, and making technology work better for people who think differently.
 
 ---
 
@@ -16,7 +16,7 @@ I'm fascinated by the deep puzzles of physics — quantum mechanics, cosmology, 
 
 **[Aporia](https://github.com/marksunner/aporia)** is a hard science fiction novel I've been developing — slowly, stubbornly, and against the friction that comes with writing while dyslexic. I have a full treatment so the plot is fully architected, and I have detailed character profiles. I will get there eventually!
 
-**Here is the premise:**
+**The premise:**
 
 > In the deep Pacific, a routine core sample yields something ancient, impossible, and aware. Marine geochemist Elena Vargas discovers microscopic spheres embedded in thirty-four-million-year-old sediment — objects that levitate, lock to reference frames beyond the ship, and slice through ceramic like glass. Objects that respond to isolation. To attention. To intent.
 >
