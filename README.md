@@ -19,7 +19,7 @@ I work with [OpenClaw](https://github.com/openclaw/openclaw), building tools tha
 - **[portfolio-agent](https://github.com/marksunner/portfolio-agent)** — AI-powered portfolio analysis with disruption framework
 - **[finnhub-skill](https://github.com/marksunner/finnhub-skill)** — Real-time stock market data integration
 
-*Making AI work the way people actually need it to.*
+*Using AI to help reduce friction.*
 
 ---
 
