@@ -1,6 +1,6 @@
 # Hi, I'm Mark Sunner 👋
 
-After decades in tech (I was CTO of MessageLabs), I finally have time to play around with somw fun things I'm passionate about - such as AI tools (that work the way my dyslexic brain does), storytelling and physics puzzles. This tiny corner of GitHub is my play area, not my CV. Expect many rough edges, acknowledged limitations, but always genuine enthusiasm.
+After decades in tech (I was CTO of MessageLabs), I finally have time to play around with some fun things I'm passionate about - such as AI tools (that work the way my dyslexic brain does), storytelling and physics puzzles. This tiny corner of GitHub is my play area, not my CV. Expect many rough edges, acknowledged limitations, but always genuine enthusiasm.
 
 ---
 
