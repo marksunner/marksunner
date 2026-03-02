@@ -1,6 +1,6 @@
 # Hi, I'm Mark Sunner 👋
 
-I love to build things I'm passionate about. I enjoy making technology work for people who think differently, understanding the psychology of communication, writing hard science fiction, and exploring the deep puzzles of physics.
+After decades in tech (I was CTO of MessageLabs), I finally have time to chase ideas I care about — physics puzzles, storytelling mechanics, AI tools that work the way my brain does. This is my workshop, not my CV. Expect rough edges, acknowledged limitations, and genuine enthusiasm.
 
 ---
 
