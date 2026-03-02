@@ -46,7 +46,7 @@ After years of helping technical teams communicate complex ideas, I've developed
 
 > In the deep Pacific, a routine core sample yields something ancient, impossible, and aware. Marine geochemist Elena Vargas discovers microscopic spheres embedded in thirty four million year old sediment — objects that levitate, lock to reference frames beyond the ship, and slice through ceramic like glass. Objects that respond to isolation. To attention. To intent.
 >
-> But Elena isn't the only one paying attention. A colleague's theft, a keyword misread by dormant malware, and a military mistranslation set three separate forces converging on the same discovery — each seeing exactly what their framework permits them to see.
+> But Elena isn't the only one paying attention. A colleague's theft, a keyword misread by dormant malware, and a military mistranslation set three separate forces converging on the same discovery — each seeing only what their framework permits them to see.
 >
 > As something far older than the spheres themselves begins to respond, Elena must confront a question more terrifying than any threat...
 
