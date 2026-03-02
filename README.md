@@ -1,6 +1,6 @@
 # Hi, I'm Mark Sunner 👋
 
-After decades in tech (I was CTO of MessageLabs), I finally have time to chase ideas I care about — physics puzzles, storytelling mechanics, AI tools that work the way my brain does. This is my workshop, not my CV. Expect rough edges, acknowledged limitations, and genuine enthusiasm.
+After decades in tech (I was CTO of MessageLabs), I finally have time to play around with somw fun things I'm passionate about - such as AI tools (that work the way my dyslexic brain does), storytelling and physics puzzles. This tiny corner of GitHub is my play area, not my CV. Expect many rough edges, acknowledged limitations, but always genuine enthusiasm.
 
 ---
 
