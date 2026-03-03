@@ -28,7 +28,7 @@ I work with [OpenClaw](https://github.com/openclaw/openclaw), building tools tha
 
 ## 🎯 Communication Psychology
 
-> "What's the difference between a vision and a hallucination? It becomes a vision when others can see it."
+> "What's the difference between a vision and a hallucination? It becomes a vision when others can see it.."
 
 After years of helping technical teams communicate complex ideas, I've developed frameworks grounded in cognitive psychology — not showmanship tips, but the deeper question: **what creates the conditions for an audience to truly receive your message?**
 
