@@ -18,6 +18,7 @@ I work with [OpenClaw](https://github.com/openclaw/openclaw), building tools tha
 - **[openclaw-companion](https://github.com/marksunner/openclaw-companion)** — Mobile app for AI assistants on the go
 - **[portfolio-agent](https://github.com/marksunner/portfolio-agent)** — AI-powered portfolio analysis with disruption framework
 - **[finnhub-skill](https://github.com/marksunner/finnhub-skill)** — Real-time stock market data integration
+- **[meeting-capture](https://github.com/marksunner/meeting-capture)** — AI-powered meeting transcription and structured notes
 
 *Using AI to help reduce friction.*
 
