@@ -2,7 +2,7 @@
 
 Former CTO of MessageLabs, now happily tinkering. Currently exploring AI tools (built around how my dyslexic brain works), writing science fiction, and following threads in psychology and physics.
 
-This is simply a public workbench — a place to park ideas and experiments. It’s not a CV — rough edges guaranteed.
+This is simply a public workbench — a place to park ideas and experiments. It's not a CV — rough edges guaranteed.
 
 ---
 
@@ -49,11 +49,11 @@ After years of helping technical teams communicate complex ideas, I've developed
 
 **The premise:**
 
-> In the deep Pacific, a routine core sample yields something ancient, impossible, and aware. Marine geochemist Elena Vargas discovers microscopic spheres embedded in thirty four million year old sediment — objects that levitate, lock to reference frames beyond the ship, and slice through ceramic like glass. Objects that respond to isolation. To attention. To intent.
+> In the deep Pacific, a routine core sample yields something that shouldn't exist. Marine geochemist Elena Vargas discovers microscopic spheres embedded in thirty-four-million-year-old sediment — objects that levitate below 200 kelvin, lock to reference frames beyond the ship, and slice through ceramic like glass. Objects that behave differently when isolated. When observed.
 >
-> But Elena isn't the only one paying attention. A colleague's theft, a keyword misread by dormant malware, and a military mistranslation set three separate forces converging on the same discovery — each seeing only what their framework permits them to see.
+> Before Elena can secure the discovery, it escapes her — through a colleague's quiet theft, a keyword misread by dormant malware, and a military translation that turns quantum physics into a weapons assessment. Three institutions converge on the same find: one driven by curiosity, one by profit, one by threat. Each behaves rationally. Each follows protocol. And each sees only what its framework permits it to see.
 >
-> As something far older than the spheres themselves begins to respond, Elena must confront a question more terrifying than any threat...
+> As the responses cascade toward a threshold that cannot be uncrossed, Elena confronts a possibility more unsettling than any danger: that the spheres aren't the test. Humanity's interpretation of them is.
 
 *Aporia is a novel about the vertigo-inducing distance between what we find and what we're capable of understanding — and the terrifying possibility that the prison we see is a door we haven't learned to open.*
 
