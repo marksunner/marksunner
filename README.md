@@ -1,6 +1,7 @@
 # Hi, I'm Mark Sunner 👋
 
-Former CTO of MessageLabs, now happily tinkering. I build AI tools that work the way my dyslexic brain does, write science fiction, and play with psychology / physics puzzles I probably shouldn’t attempt. This is a public workbench — a place to park ideas, experiments, and ongoing projects.. it's not my CV — rough edges guaranteed!
+Former CTO of MessageLabs, now happily tinkering. Currently exploring AI tools (built around how my dyslexic brain works), writing science fiction, and following threads in psychology and physics.
+This is simply a public workbench — a place to park ideas and experiments. It’s not a CV - rough edges guaranteed!
 
 ---
 
