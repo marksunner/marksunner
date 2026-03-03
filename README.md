@@ -49,7 +49,7 @@ After years of helping technical teams communicate complex ideas, I've developed
 
 **The premise:**
 
-> In the deep Pacific, a routine core sample yields something that shouldn't exist. Marine geochemist Elena Vargas discovers microscopic spheres embedded in thirty-four-million-year-old sediment — objects that levitate below 200 kelvin, lock to reference frames beyond the ship, and slice through ceramic like glass. Objects that behave differently when isolated. When observed.
+> In the deep Pacific, a routine core sample yields something that shouldn't exist. Marine geochemist Elena Vargas discovers microscopic spheres embedded in thirty four million year old sediment — objects that levitate below 200 kelvin, lock to reference frames beyond the ship, and slice through ceramic like glass. Objects that behave differently when isolated. When observed.
 >
 > Before Elena can secure the discovery, it escapes her — through a colleague's quiet theft, a keyword misread by dormant malware, and a military translation that turns quantum physics into a weapons assessment. Three institutions converge on the same find: one driven by curiosity, one by profit, one by threat. Each behaves rationally. Each follows protocol. And each sees only what its framework permits it to see.
 >
