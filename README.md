@@ -58,7 +58,7 @@ After years of helping technical teams communicate complex ideas, I've developed
 
 ## 🔭 Exploratory Physics
 
-I'm fascinated by the deep puzzles of physics — quantum mechanics, cosmology, and the strange gaps in our understanding of reality. My [Decoherence paper](https://github.com/marksunner/decoherence-paper) 📄 explores some speculative ideas about quantum measurement and the emergence of classical reality. The [visualisation code](https://github.com/marksunner/decoherence-figures) that accompanies it lets you explore the mathematics interactively.
+I'm fascinated by the deep puzzles of physics — quantum mechanics, cosmology, and the strange gaps in our understanding of reality. My [Decoherence paper](https://github.com/marksunner/decoherence-paper) 📄 explores some speculative ideas about quantum measurement and the emergence of classical reality.  To reiterate, my ideas are *highly* speculative, and are intended to serve as the backbone for the worldbuilding of my fictional story Aporia - it's not intended as a contribution to physics.  The [visualisation code](https://github.com/marksunner/decoherence-figures) that accompanies it lets you explore the mathematics interactively.
 
 *Not peer-reviewed, intentionally provocative, hopefully interesting.*
 
