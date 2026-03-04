@@ -12,7 +12,17 @@ I live with dyslexia — it's a blessing and a curse... but mainly a blessing ;-
 
 Technology that understands context and adapts to how I think isn't a luxury — it's what makes everything else possible. To that end I'm interested in developing tools to help remove the friction experienced day-to-day by people with dyslexia and turn our leaded boots into running shoes fit for a gazelle.
 
-I work with [OpenClaw](https://github.com/openclaw/openclaw), building tools that let AI assistants be genuinely helpful:
+### 🧬 Featured: Helix
+
+**[Helix](https://github.com/marksunner/helix)** — A non-linear cognition interface for voice AI. Designed for minds that don't think in straight lines.
+
+> *"780 million people worldwide have dyslexia. Not one piece of consumer voice AI is designed for how they actually think."*
+
+Helix holds incomplete thoughts, tracks threads across a conversation, notices lateral connections, and reflects insight back clearly — turning non-linear thinking from a limitation into an asset. Built for [OpenHome](https://openhome.com) smart speakers.
+
+---
+
+I also work with [OpenClaw](https://github.com/openclaw/openclaw), building tools that let AI assistants be genuinely helpful:
 
 - **[openclaw-skills](https://github.com/marksunner/openclaw-skills)** — Modular capabilities for AI agents
 - **[openclaw-voice-integration](https://github.com/marksunner/openclaw-voice-integration)** — Hands-free voice interfaces
