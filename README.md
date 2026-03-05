@@ -65,6 +65,7 @@ After years of helping technical teams communicate complex ideas, I've developed
 >
 > As the responses cascade toward a threshold that cannot be uncrossed, Elena confronts a possibility more unsettling than any danger: that the spheres aren't the test. Humanity's interpretation of them is.
 
+What do I (currently) think would be on the back of the book?:
 *Aporia is a novel about the vertigo-inducing distance between what we find and what we're capable of understanding — and the terrifying possibility that the prison we see is a door we haven't learned to open.*
 
 ---
