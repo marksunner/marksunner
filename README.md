@@ -18,7 +18,7 @@ Technology that understands context and adapts to how I think isn't a luxury —
 
 > *"780 million people worldwide have dyslexia. Not one piece of consumer voice AI is designed for how they actually think."*
 
-Helix holds incomplete thoughts, tracks threads across a conversation, notices lateral connections, and reflects insight back clearly — turning non-linear thinking from a limitation into an asset. Built for [OpenHome](https://openhome.com) smart speakers.
+Helix holds incomplete thoughts, tracks threads across a conversation, notices lateral connections, and reflects insight back clearly — turning non-linear thinking from a limitation into an asset. Proven on Raspberry Pi 5, whilst evaluating deployment platforms.
 
 ---
 
