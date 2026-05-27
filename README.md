@@ -55,18 +55,7 @@ After years of helping technical teams communicate complex ideas, I've developed
 
 ## 📖 Fiction
 
-**[Aporia](https://github.com/marksunner/aporia)** is a hard science fiction novel I'm writing — slowly, stubbornly, and against the friction that comes with writing while dyslexic. I have a full treatment so the arc/plot is fully architected, plus the character profiles are fully formed, I just need to crack on & do it.. I will get there, eventually!
-
-**The premise:**
-
-> In the deep Pacific, a routine core sample yields something that shouldn't exist. Marine geochemist Elena Vargas discovers microscopic spheres embedded in thirty four million year old sediment — objects that levitate below 200 kelvin, lock to reference frames beyond the ship, and slice through ceramic like glass. Objects that behave differently when isolated. When observed.
->
-> Before Elena can secure the discovery, it escapes her — through a colleague's quiet theft, a keyword misread by dormant malware, and a military translation that turns quantum physics into a weapons assessment. Three institutions converge on the same find: one driven by curiosity, one by profit, one by threat. Each behaves rationally. Each follows protocol. And each sees only what its framework permits it to see.
->
-> As the responses cascade toward a threshold that cannot be uncrossed, Elena confronts a possibility more unsettling than any danger: that the spheres aren't the test. Humanity's interpretation of them is.
-
-<b>Back cover:</b>
-*Aporia is a novel about the vertigo-inducing distance between what we find and what we're capable of understanding — and the terrifying possibility that the cognitive prison we see, might be a door we haven't learned to open.*
+Currently writing a hard science fiction novel — slowly, stubbornly, and against the friction that comes with writing while dyslexic. More to come.
 
 ---
 
