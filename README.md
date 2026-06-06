@@ -10,14 +10,14 @@ I work with AI agents daily and have done since early 2026. Much of what you see
 
 Running 122B–198B parameter models on single and dual NVIDIA DGX Spark systems. Real benchmarks, real hardware, no cloud.
 
-- **[dgx-spark-step37-flash](https://github.com/marksunner/dgx-spark-step37-flash)** — Step 3.7 Flash (198B MoE) on a single DGX Spark. 27 tok/s, 128K context, agent-ready.
-- **[dgx-spark-single-stack](https://github.com/marksunner/dgx-spark-single-stack)** — Complete AI agent on one Spark: Qwen 122B + Hermes + Honcho. GPU inference and CPU agent framework sharing unified memory without competing.
-- **[dgx-spark-vllm-tp-benchmark](https://github.com/marksunner/dgx-spark-vllm-tp-benchmark)** — DeepSeek V4 Flash dual-Spark benchmark via vLLM tensor parallelism over NCCL/RoCE.
-- **[dgx-spark-ds4-benchmark](https://github.com/marksunner/dgx-spark-ds4-benchmark)** — DeepSeek V4 Flash distributed inference on dual Sparks using ds4 (DwarfStar).
+→ **[dgx-spark](https://github.com/marksunner/dgx-spark)** — Start here. Navigational guide to all DGX Spark work, organised by inference engine.
 
-### Open source contributions
+### Inference engines
 
-- **[Atlas inference engine](https://github.com/Avarok-Cybersecurity/atlas/pull/119)** — Added Step 3.7 Flash NVFP4 support: kernel target, config parser, weight loader, and expert parallelism preprocessing for the pure Rust inference engine.
+- **[Atlas](https://github.com/marksunner/atlas)** *(active)* — Contributing Step 3.7 Flash support to the pure Rust inference engine. [PR #119](https://github.com/crate-ai/atlas/pull/119): Blackwell kernel targets, NVFP4 weight loading, expert parallelism.
+- **vLLM** — [Step 3.7 Flash dual-Spark](https://github.com/marksunner/dgx-spark-step37-dual) (NVFP4, RoCE RDMA, 262K context, 18.5 tok/s) · [DeepSeek V4 benchmark](https://github.com/marksunner/dgx-spark-vllm-tp-benchmark)
+- **llama.cpp** — [Step 3.7 Flash single-Spark](https://github.com/marksunner/dgx-spark-step37-flash) (27 tok/s, 128K context) · [Qwen 122B agent stack](https://github.com/marksunner/dgx-spark-single-stack) (47 tok/s)
+- **ds4** — [DeepSeek V4 benchmark](https://github.com/marksunner/dgx-spark-ds4-benchmark)
 
 ---
 
