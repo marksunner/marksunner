@@ -1,8 +1,8 @@
 # Mark Sunner
 
-Former CTO ([MessageLabs](https://en.wikipedia.org/wiki/MessageLabs), acquired by Symantec 2008). Now building AI infrastructure on NVIDIA DGX Spark hardware — running large language models locally, benchmarking inference engines, and contributing upstream where it helps.
+Former CTO ([MessageLabs](https://en.wikipedia.org/wiki/MessageLabs), acquired by Symantec 2008). Now retired, happy tinkering and building AI infrastructure on NVIDIA DGX Spark hardware. 
 
-I work with AI agents daily and have done since early 2026. Much of what you see here is built collaboratively — I provide the hardware, the direction, and the domain experience; the agents handle the heavy engineering. It's a genuine partnership and I'm not shy about saying so.
+I work with AI agents daily and much of what you see here is built collaboratively. I provide the hardware, the direction, and the domain experience; the agents handle the heavy engineering. It's a genuine partnership and I'm not shy about it.
 
 ---
 
