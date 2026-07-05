@@ -14,7 +14,7 @@ Running 122B–198B parameter models on single and dual NVIDIA DGX Spark systems
 
 ### Inference engines
 
-- **[Atlas](https://github.com/marksunner/atlas)** *(active)* — Contributing Step 3.7 Flash support to the pure Rust inference engine. [PR #136](https://github.com/Avarok-Cybersecurity/atlas/pull/136): Blackwell kernel targets, NVFP4 weight loading, expert parallelism.
+- **[Atlas](https://github.com/marksunner/atlas)** *(contributions merged)* — Step 3.7 Flash support for the pure Rust inference engine. [PR #136](https://github.com/Avarok-Cybersecurity/atlas/pull/136) (merged): NVFP4 support, Blackwell kernels, expert parallelism. [Issue #184](https://github.com/Avarok-Cybersecurity/atlas/issues/184#issuecomment-4885603221): extended findings — FP8 quality fix, 13 bug fixes, 70K context validation. [Test artifacts](https://github.com/marksunner/dgx-spark-step37-flash-atlas).
 - **vLLM** — [Step 3.7 Flash dual-Spark](https://github.com/marksunner/dgx-spark-step37-dual) (NVFP4, RoCE RDMA, 262K context, 18.5 tok/s) · [DeepSeek V4 benchmark](https://github.com/marksunner/dgx-spark-vllm-tp-benchmark)
 - **llama.cpp** — [Step 3.7 Flash single-Spark](https://github.com/marksunner/dgx-spark-step37-flash) (27 tok/s, 128K context) · [Qwen 122B agent stack](https://github.com/marksunner/dgx-spark-single-stack) (47 tok/s)
 - **ds4** — [DeepSeek V4 benchmark](https://github.com/marksunner/dgx-spark-ds4-benchmark)
