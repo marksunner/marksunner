@@ -8,7 +8,7 @@ I work with AI agents daily and much of what you see here is built collaborative
 
 ## DGX Spark Infrastructure
 
-Running 122B–753B parameter models on single and dual NVIDIA DGX Spark systems. Real benchmarks, real hardware, no cloud.
+Running 122B–753B parameter models on single, dual and cluster NVIDIA DGX Spark systems. Real benchmarks, real hardware, no cloud.
 
 → **[dgx-spark](https://github.com/marksunner/dgx-spark)** — Start here. Navigational guide to all DGX Spark work, organised by inference engine and model.
 → **[dgx-spark-guides](https://github.com/marksunner/dgx-spark-guides)** ✨ — Cluster deployment guides written from real experience: **GLM 5.2 on 4× Sparks** (the complete journey from unboxing to first inference) · **What Is Fabric?** (building a lossless RoCE fabric with the MikroTik CRS812, from first principles)
