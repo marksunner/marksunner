@@ -10,12 +10,13 @@ I work with AI agents daily and much of what you see here is built collaborative
 
 Running 122B–198B parameter models on single and dual NVIDIA DGX Spark systems. Real benchmarks, real hardware, no cloud.
 
-→ **[dgx-spark](https://github.com/marksunner/dgx-spark)** — Start here. Navigational guide to all DGX Spark work, organised by inference engine.
+→ **[dgx-spark](https://github.com/marksunner/dgx-spark)** — Start here. Navigational guide to all DGX Spark work, organised by inference engine and model.
+→ **[dgx-spark-guides](https://github.com/marksunner/dgx-spark-guides)** ✨ — Cluster deployment guides written from real experience: **GLM 5.2 on 4× Sparks** (the complete journey from unboxing to first inference) · **What Is Fabric?** (building a lossless RoCE fabric with the MikroTik CRS812, from first principles)
 
 ### Inference engines
 
+- **vLLM** — **[GLM 5.2 on 4× Sparks](https://github.com/marksunner/dgx-spark-guides)** ✨ (671B MoE, all 256 experts, 200K context, ~26 tok/s) · [Step 3.7 Flash dual-Spark](https://github.com/marksunner/dgx-spark-step37-dual) (198B MoE, RoCE RDMA, 262K context, 18.5 tok/s) · [DeepSeek V4 benchmark](https://github.com/marksunner/dgx-spark-vllm-tp-benchmark)
 - **[Atlas](https://github.com/marksunner/atlas)** *(contributions merged)* — Step 3.7 Flash support for the pure Rust inference engine. [PR #136](https://github.com/Avarok-Cybersecurity/atlas/pull/136) (merged): NVFP4 support, Blackwell kernels, expert parallelism. [Issue #184](https://github.com/Avarok-Cybersecurity/atlas/issues/184#issuecomment-4885603221): extended findings — FP8 quality fix, 13 bug fixes, 70K context validation. [Test artifacts](https://github.com/marksunner/dgx-spark-step37-flash-atlas).
-- **vLLM** — [Step 3.7 Flash dual-Spark](https://github.com/marksunner/dgx-spark-step37-dual) (NVFP4, RoCE RDMA, 262K context, 18.5 tok/s) · [DeepSeek V4 benchmark](https://github.com/marksunner/dgx-spark-vllm-tp-benchmark)
 - **llama.cpp** — [Step 3.7 Flash single-Spark](https://github.com/marksunner/dgx-spark-step37-flash) (27 tok/s, 128K context) · [Qwen 122B agent stack](https://github.com/marksunner/dgx-spark-single-stack) (47 tok/s)
 
 ---
