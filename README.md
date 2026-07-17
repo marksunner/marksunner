@@ -21,6 +21,12 @@ Running 122B–671B parameter models on single, dual and cluster NVIDIA DGX Spar
 
 ---
 
+## Tools
+
+- **[barrel-index](https://github.com/marksunner/barrel-index)** — **[The Barrel Index](https://marksunner.github.io/barrel-index/)**: the spot price of machine intelligence. A single HTML file that shows what every major AI producer charges per million tokens, pulled live from the market and racked like a commodity board. No build step, no dependencies, no API key.
+
+---
+
 ## Other interests
 
 - **[decoherence-paper](https://github.com/marksunner/decoherence-paper)** — Speculative physics: quantum decoherence and the emergence of classical reality. Worldbuilding for a hard SF novel, not a contribution to physics.
