@@ -6,7 +6,7 @@ I work with AI agents daily and much of what you see here is built collaborative
 
 ---
 
-## DGX Spark Infrastructure
+## Local AI via DGX Spark Infrastructure
 
 Running 122B–671B parameter models on single, dual and cluster NVIDIA DGX Spark systems. Real benchmarks, real hardware, no cloud.
 
