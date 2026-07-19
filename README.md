@@ -21,7 +21,7 @@ Running 122B–671B parameter models on single, dual and cluster NVIDIA DGX Spar
 
 ---
 
-## Tools
+## Intelligence pricing
 
 - **[barrel-index](https://github.com/marksunner/barrel-index)** — **[The Barrel Index](https://marksunner.github.io/barrel-index/)**: Pricing benchmarking for machine intelligence. A single HTML file that shows what every major AI producer charges per million tokens, pulled live from the market and racked like a commodity board. No build step, no dependencies, no API key.
 
