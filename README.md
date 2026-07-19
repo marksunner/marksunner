@@ -29,6 +29,6 @@ Running 122B–671B parameter models on single, dual and cluster NVIDIA DGX Spar
 
 ## Other interests
 
-- **[decoherence-paper](https://github.com/marksunner/decoherence-paper)** — Speculative physics: quantum decoherence and the emergence of classical reality. Worldbuilding for a hard SF novel, not a contribution to physics.
 - **[storytelling-psychology](https://github.com/marksunner/storytelling-psychology)** — Communication frameworks grounded in cognitive psychology. Built from years of helping technical teams make complex ideas land.
 - **[helix](https://github.com/marksunner/helix)** — A non-linear cognition interface for voice AI, designed for dyslexic thinking. Currently paused while pursuing infrastructure work.
+- **[decoherence-paper](https://github.com/marksunner/decoherence-paper)** — Speculative physics: quantum decoherence and the emergence of classical reality. Worldbuilding for a hard SF novel, not a contribution to physics.
